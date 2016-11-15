@@ -10,7 +10,16 @@
   "author": "antoinette@primeacademy.io",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.1",
-    "express": "^4.13.4"
-  }
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "pg": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdszafranski/prime-node-books.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kdszafranski/prime-node-books/issues"
+  },
+  "homepage": "https://github.com/kdszafranski/prime-node-books#readme"
 }
